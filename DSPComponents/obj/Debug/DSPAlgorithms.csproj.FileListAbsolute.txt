@@ -1,0 +1,12 @@
+C:\Users\Awab\Desktop\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\Awab\Desktop\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\Awab\Desktop\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Awab\Desktop\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Awab\Desktop\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\Awab\Desktop\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\Awab\Desktop\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\Awab\Desktop\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\Awab\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Awab\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Awab\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\Awab\Desktop\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
